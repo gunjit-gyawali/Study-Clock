@@ -34,6 +34,7 @@ The case also includes 2 pen holders to keep the desk organized.
 | SCL  | GPIO 22 |
 
 Buzzer - GPIO 25
+
 CHerry Switch - GPIO 32
 
 ## Setup
@@ -45,3 +46,8 @@ CHerry Switch - GPIO 32
 ## About
 
 I made this project to create a useful and clean desk accessory while learning more about ESP32 and OLED displays.
+
+## Images
+
+<img width="792" height="563" alt="schematic" src="https://github.com/user-attachments/assets/147ea246-4703-49e8-8c8d-3c3e78edfc46" />
+
